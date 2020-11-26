@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Luis Rondow 👋
 
-<!--
-**luisrondow/luisrondow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Activities:
 
-Here are some ideas to get you started:
+- Software Engineering @ PUC-MG
+- Frontend Engineer @ [T10](https://t10.digital/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+[<img align="left" alt="luis rondow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/guilherme-luiz-lara-silva-9a7158162/)
+[<img align="left" alt="luis rondow | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />](mailto:luiseduardorondow@gmail.com)
+
+</br>
+
+### My most used languages and tools:
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+</br>
+
+---
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrondow&layout=compact&hide=c)](https://github.com/guilhermells/github-readme-stats)
+
+---
+
+[![Luis' github stats](https://github-readme-stats.vercel.app/api?username=luisrondow&count_private=true)](https://github.com/guilhermells/github-readme-stats)

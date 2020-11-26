@@ -26,8 +26,8 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrondow&layout=compact&hide=c)](https://github.com/guilhermells/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrondow&layout=compact&hide=c)](https://github.com/luisrondow/github-readme-stats)
 
 ---
 
-[![Luis' github stats](https://github-readme-stats.vercel.app/api?username=luisrondow&count_private=true)](https://github.com/guilhermells/github-readme-stats)
+[![Luis' github stats](https://github-readme-stats.vercel.app/api?username=luisrondow&count_private=true)](https://github.com/luisrondow/github-readme-stats)

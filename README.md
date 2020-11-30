@@ -7,7 +7,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="luis rondow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/guilherme-luiz-lara-silva-9a7158162/)
+[<img align="left" alt="luis rondow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/luisrondow/)
 [<img align="left" alt="luis rondow | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />](mailto:luiseduardorondow@gmail.com)
 
 </br>

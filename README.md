@@ -3,7 +3,7 @@
 ## Activities:
 
 - Software Engineering @ PUC-MG
-- Frontend Engineer @ [T10](https://t10.digital/)
+- Frontend Engineer @ [T10](https://www.gama.academy/)
 
 ## Connect with me:
 

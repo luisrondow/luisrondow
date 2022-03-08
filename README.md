@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/luisrondow)
 
-- 📄 Know about my experiences on [my CV](https://drive.google.com/file/d/1ixqkxVV709HsU758_qF2oSuR7XHOl9R-/view?usp=sharing)
+<!-- - 📄 Know about my experiences on [my CV](https://drive.google.com/file/d/1ixqkxVV709HsU758_qF2oSuR7XHOl9R-/view?usp=sharing)-->
 
 - 💬 Ask me about **react, next, frontend architecture**
 

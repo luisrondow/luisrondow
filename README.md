@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis von Rondow</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
+- 🔭 I’m currently working on [Mindera](https://mindera.com/)
 
 - 🌱 I’m currently learning **NextJS, React Native and Functional Programming**
 

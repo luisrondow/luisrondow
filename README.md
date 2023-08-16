@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis von Rondow</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Sword Health]([https://mindera.com/](https://swordhealth.com/))
+- 🔭 I’m currently working on [Sword Health](https://swordhealth.com/)
 
 <!-- - 🌱 I’m currently learning **NextJS, React Native and Functional Programming** -->
 

@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luis von Rondow</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Mindera](https://mindera.com/)
+- 🔭 I’m currently working on [Sword Health]([https://mindera.com/](https://swordhealth.com/))
 
-- 🌱 I’m currently learning **NextJS, React Native and Functional Programming**
+<!-- - 🌱 I’m currently learning **NextJS, React Native and Functional Programming** -->
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/luisrondow)
 
 <!-- - 📄 Know about my experiences on [my CV](https://drive.google.com/file/d/1ixqkxVV709HsU758_qF2oSuR7XHOl9R-/view?usp=sharing)-->
 
-- 💬 Ask me about **react, next, frontend architecture**
+- 💬 Ask me about **react, vuejs, frontend architecture**
 
 - 📫 How to reach me **luiseduardorondow@gmail.com**
 

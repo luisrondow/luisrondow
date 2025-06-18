@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luis von Rondow</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Sword Health](https://swordhealth.com/)
-
-<!-- - 🌱 I’m currently learning **NextJS, React Native and Functional Programming** -->
-
-- 📝 I regularly write articles on [Dev.to](https://dev.to/luisrondow)
+- 🔭 I’m currently working at [Liminal](https://liminal.co/)
 
 <!-- - 📄 Know about my experiences on [my CV](https://drive.google.com/file/d/1ixqkxVV709HsU758_qF2oSuR7XHOl9R-/view?usp=sharing)-->
 
 - 💬 Ask me about **react, vuejs, frontend architecture**
 
 - 📫 How to reach me **luiseduardorondow@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
